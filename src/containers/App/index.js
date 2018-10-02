@@ -1,9 +1,13 @@
-import React, { Component } from "react";
+import React from "react";
+import Header from "../Header";
+import Main from "../Main";
+import { Container } from "./style";
 
-class App extends Component {
-  render() {
-    return <p>hello serafim</p>;
-  }
-}
-
-export default App;
+export default () => {
+  return (
+    <Container>
+      <Header />
+      <Main />
+    </Container>
+  );
+};

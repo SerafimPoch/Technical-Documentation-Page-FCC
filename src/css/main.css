@@ -18,6 +18,14 @@ a {
   text-decoration: none;
 }
 
+code p {
+  margin-bottom: 5px;
+}
+
+pre {
+  margin-bottom: 20px;
+}
+
 article {
   margin-left: 20px;
 }

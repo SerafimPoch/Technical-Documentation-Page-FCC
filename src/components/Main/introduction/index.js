@@ -1,9 +1,9 @@
 import React from "react";
-import { IntroSection } from "./style";
+import { Section } from "./style";
 
 export default () => {
   return (
-    <IntroSection id="#introduction">
+    <Section id="#introduction">
       <header>Introduction</header>
       <article>
         <p>
@@ -38,6 +38,6 @@ export default () => {
           the application, or perform file manipulations on a server.
         </li>
       </article>
-    </IntroSection>
+    </Section>
   );
 };

@@ -17,3 +17,16 @@ a {
   color: #000;
   text-decoration: none;
 }
+
+article {
+  margin-left: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+li {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}

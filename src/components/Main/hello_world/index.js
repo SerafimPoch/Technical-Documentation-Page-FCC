@@ -1,5 +1,4 @@
 import React from "react";
-
 import { Section } from "../introduction/style";
 
 export default () => {
@@ -15,9 +14,7 @@ export default () => {
         <pre>
           <code>
             <p>{"function greetMe(yourName) { "}</p>
-            <p style={{ "margin-left": "10px" }}>
-              {"alert(Hello  + yourName);"}
-            </p>
+            <p style={{ marginLeft: "10px" }}>{"alert(Hello  + yourName);"}</p>
             <p>{"}"}</p>
             <p>{"greetMe(World);"}</p>
           </code>

@@ -7,7 +7,6 @@ import Reference from "../../components/Main/reference";
 import Declaring from "../../components/Main/declaring";
 import Variables from "../../components/Main/variables";
 import DataTypes from "../../components/Main/data_types";
-
 import HelloWorld from "../../components/Main/hello_world";
 import Introduction from "../../components/Main/introduction";
 import VariableScope from "../../components/Main/variable_scope";
@@ -19,7 +18,7 @@ import WhatYouShouldKnow from "../../components/Main/what_should_you_know";
 export default () => {
   return (
     <MainContainer>
-      <Introduction />
+      <Introduction id="#introduction" />
       <WhatYouShouldKnow />
       <JavascriptJava />
       <HelloWorld />

@@ -5,7 +5,9 @@ export default () => {
   return (
     <NavbarContainer>
       <LinkContainer>
-        <a href="#introduction">Introduction</a>
+        <a href="#introduction" rel="internal">
+          Introduction
+        </a>
       </LinkContainer>
       <LinkContainer>
         <a href="#what_you_should_already_know">What you should already know</a>

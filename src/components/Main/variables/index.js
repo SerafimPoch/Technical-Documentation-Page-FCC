@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="variables">
       <header>Variables</header>
       <article>
         <p>

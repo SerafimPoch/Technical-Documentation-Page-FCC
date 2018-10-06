@@ -18,7 +18,7 @@ import WhatYouShouldKnow from "../../components/Main/what_should_you_know";
 export default () => {
   return (
     <MainContainer>
-      <Introduction id="#introduction" />
+      <Introduction />
       <WhatYouShouldKnow />
       <JavascriptJava />
       <HelloWorld />

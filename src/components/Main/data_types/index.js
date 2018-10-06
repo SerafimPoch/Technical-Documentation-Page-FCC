@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="data_types">
       <header>Data Types</header>
       <article>
         <p>The latest ECMAScript standard defines seven data types:</p>

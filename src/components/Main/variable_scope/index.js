@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="variable_scope">
       <header>Variable scope</header>
       <article>
         <p>

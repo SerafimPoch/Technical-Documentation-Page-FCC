@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="what_you_should_already_know">
       <header>What you should already know</header>
       <article>
         <p>This guide assumes you have the following basic background:</p>

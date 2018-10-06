@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="function_declaration">
       <header>Function declarations</header>
       <article>
         <p>

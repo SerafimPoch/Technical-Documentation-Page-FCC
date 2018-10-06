@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="js_java">
       <header>JavaScript and Java</header>
       <article>
         <p>

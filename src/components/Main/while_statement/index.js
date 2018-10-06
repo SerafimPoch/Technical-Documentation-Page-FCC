@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="while_statement">
       <header>while statement</header>
       <article>
         <p>

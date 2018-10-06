@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="if_else_statement">
       <header>if...else statement</header>
       <article>
         <p>

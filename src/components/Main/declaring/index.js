@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="declaring_variables">
       <header>Declaring variables</header>
       <article>
         <p>You can declare a variable in three ways:</p>

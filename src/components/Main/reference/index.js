@@ -3,7 +3,7 @@ import { Section } from "../introduction/style";
 
 export default () => {
   return (
-    <Section>
+    <Section id="reference">
       <header>Reference</header>
       <li>
         All the documentation in this page is taken from{" "}
